@@ -80,7 +80,7 @@ useEffect(() => {
   <div className="hero-overlay">
     <h1>Empowering Lives Through Welfare Awareness</h1>
     <p>
-      ion is to spread awareness about welfare schemes, opportunities, and resources that can improve lives. Many people are unaware of the help available to them, so through this platform we aim to provide clear, accessible, and trustworthy information. Together, we can build a more informed and empowered society."
+      "Our mission is to spread awareness about welfare schemes, opportunities, and resources that can improve lives. Many people are unaware of the help available to them, so through this platform we aim to provide clear, accessible, and trustworthy information. Together, we can build a more informed and empowered society."
     </p>
     
   </div>
