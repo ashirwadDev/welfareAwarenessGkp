@@ -1,5 +1,5 @@
 import { useState,useEffect } from "react";
-import logo from "./assets/client_logo.jpg"; // apna logo daal de
+import logo from "./assets/New.jpg"; // apna logo daal de
 import heroImg1 from "./assets/image1.png";
 import heroImg2 from "./assets/image.png";
 
